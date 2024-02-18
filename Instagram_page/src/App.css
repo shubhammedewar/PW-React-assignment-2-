@@ -1,0 +1,17 @@
+#Container{
+    border: 2px solid gray;
+    /* padding: 10px 20px; */
+    width: min-content;
+    padding: 50px;
+    text-align: center;
+    background-color: #908c8cae;
+}
+#user{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    row-gap: 8px;
+}
+#change:hover{
+    cursor: pointer;
+}
